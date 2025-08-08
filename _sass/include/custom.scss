@@ -1,5 +1,13 @@
-.archive__item:hover {
+.archive__item-title:hover {
   text-decoration: none   !important;
   cursor: default;
 }
 
+.archive__item:hover {
+  text-decoration: none   !important;
+  border: none !important;
+  box-shadow: none !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  background: none !important;
+}
