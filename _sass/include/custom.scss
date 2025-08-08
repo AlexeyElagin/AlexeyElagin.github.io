@@ -1,10 +1,5 @@
-.archive__item-title:hover {
-  text-decoration: none;
+.archive__item:hover {
+  text-decoration: none   !important;
   cursor: default;
 }
 
-
-h2.archive__item-title:hover {
-  text-decoration: none  !important;
-  cursor: default;
-}
