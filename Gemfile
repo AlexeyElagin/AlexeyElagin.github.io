@@ -10,4 +10,4 @@ source 'https://rubygems.org'
 #end
 
 gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+#gem 'connection_pool', '2.5.0'
