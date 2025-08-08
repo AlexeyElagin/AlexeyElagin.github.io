@@ -1,0 +1,9 @@
+.archive__item-title {
+  text-decoration: none;
+
+  // Optional: remove hover effect if lingering
+  &:hover {
+    text-decoration: none;
+    cursor: default;
+  }
+}
