@@ -2,8 +2,12 @@
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
-author_profile: true
+author_profile: false
 ---
+
+There is no sitemap for this website
+
+<!--
 
 {% include base_path %}
 
@@ -35,3 +39,6 @@ A list of all the posts and pages found on the site. For you robots out there, t
   {% endunless %}
 {% endfor %}
 {% endfor %}
+
+
+-->
