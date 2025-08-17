@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Papers"
+    url: /papers/
+  - title: "Talks"
+    url: /talks/
+  - title: "Teaching"
+    url: /teaching 
+  - title: "Other stuff"
+    url: /stuff/
