@@ -11,8 +11,8 @@ plugins:
 
 # Author info (for the left sidebar)
 author:
-  name   : "Alexey Elagin"
-  avatar : "/assets/me.jpg"
+ # name   : "Alexey Elagin"
+  avatar : "/assets/me squared.jpg"
   bio    : "Turning coffee into theorems"
  #location: "planet Earth"
 
