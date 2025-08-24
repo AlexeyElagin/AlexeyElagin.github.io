@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 
 
-**Published:**
+#**Published:**
 
 
 14. **Calculating dimension of triangulated categories: path algebras, their tensor powers and orbifold projective lines**  
