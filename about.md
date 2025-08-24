@@ -13,7 +13,8 @@ I am a mathematician, which means that my job is to describe the laws of nature 
 
 
 Currently (since Oct 2024) I am a research associate (aka postdoc) at the [University of Sheffield](https://agmp.sites.sheffield.ac.uk). 
-Before that I was working at the [University of Edinburgh](https://maths.ed.ac.uk) under a fellowship from Isaac Newton Institute, 
+Before that I was 
+- a visiting researcher at the [University of Edinburgh](https://maths.ed.ac.uk) under a fellowship from Isaac Newton Institute,
 and prior to that I was (rather parallel than successively):
 - working as a research fellow at IITP (Kharkevich Institute) and [HSE](https://ag.hse.ru/en/) (Higher School of Economics)
 - reading lectures at [IUM](https://mccme.ru/en/nmu/) (Independent University of Moscow)
