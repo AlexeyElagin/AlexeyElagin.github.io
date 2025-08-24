@@ -1,4 +1,4 @@
-title: "Alexey Elagin's homepage"
+title: "Alexey Elagin"
 #email: your-email@example.com
 description: >- 
   Welcome to my homepage!
@@ -12,7 +12,7 @@ plugins:
 # Author info (for the left sidebar)
 author:
   name   : "Alexey Elagin"
- # avatar : "/assets/images/avatar.png"
+  avatar : "/assets/me.jpg"
   bio    : "Turning coffee into theorems"
  
  #location: "planet Earth"
