@@ -2,6 +2,7 @@
 layout: single
 title: "About me"
 permalink: /about/
+author_profile: true
 ---
 I am a mathematician, which means that my job is to describe the laws of nature in the language of mathematics. More concretely, I am interested in algebraic geometry and categories, especially --- in categories arising in algebraic geometry, like derived categories of coherent sheaves. I like to think about:
 - the structure of derived categories, via semi-orthogonal decompositions and exceptional collections, and invariants of these categories
