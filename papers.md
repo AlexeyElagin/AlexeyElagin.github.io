@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My publication"
+title: "My papers, from new to old"
 permalink: /papers/
 ---
 
