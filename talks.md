@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 
- *Here are some of my seminar and conference talks*
+Here are some of my seminar and conference talks
 
 
 - **Atomic semi-orthogonal decompositions for derived categories of surfaces**, University College, London, UK. *November 19, 2025.*
