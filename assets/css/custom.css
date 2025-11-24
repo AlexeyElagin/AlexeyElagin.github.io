@@ -1,0 +1,5 @@
+// Make page area wider on large screens
+.page,
+.wrapper {
+  max-width: 1400px !important;   // adjust to taste (1200–1600 works well)
+}
