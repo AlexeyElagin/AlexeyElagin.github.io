@@ -1,5 +1,17 @@
 // Make page area wider on large screens
 .page,
 .wrapper {
-  max-width: 1400px !important;   // adjust to taste (1200–1600 works well)
+  max-width: 1600px !important;   // adjust to taste (1200–1600 works well)
+}
+
+
+.compact-footer {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+.compact-footer .wrapper p {
+  margin: 0 !important;
+  line-height: 1.2;
+  font-size: 0.85rem;  // slightly smaller text (optional)
 }
