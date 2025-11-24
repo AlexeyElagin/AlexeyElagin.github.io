@@ -10,7 +10,7 @@ Hello! I am a reseracher in algebraic geometry, specialising on derived categori
 
 My CV can be found [here](https://drive.google.com/file/d/1tlFhcIpPyTJmrfk15aF4BrjiAqUzL5GJ/view?usp=sharing).
 
-Alexey Elagin is <code>[ah-lick-SEY yeh-LAH-ghin]</code>.
+Alexey Elagin is <code>[ah-lick-SEY yeh-LAH-ghin].</code>
 
 You can contact me at firstname.lastname@gmail.com.
 
