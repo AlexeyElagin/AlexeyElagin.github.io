@@ -18,6 +18,4 @@ author:
 
 show_author_profile: true
 
-feed:
-  path: null
-
+css: ["assets/css/custom.css"]
