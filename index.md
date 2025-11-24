@@ -3,7 +3,7 @@ layout: single
 title: "Welcome"
 permalink: /
 ---
-<img src="/assets/Me_Padley.PNG" alt="Me" style="float: left; margin-right: 20px; width: 50%; max-width: 200px; height: auto; ">
+<img src="/assets/Me_Padley.PNG" alt="Me, a photo by D.K." style="float: left; margin-right: 20px; width: 50%; max-width: 600px; height: auto; ">
 
 
 Hello! I am a reseracher in algebraic geometry, specialising on derived categories of coherent sheaves. Currently I am a research associate at the University of Sheffield. 
