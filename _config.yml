@@ -17,3 +17,7 @@ author:
  #location: "planet Earth"
 
 show_author_profile: true
+
+feed:
+  path: null
+
