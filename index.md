@@ -12,5 +12,5 @@ My CV can be found [here](https://drive.google.com/file/d/1tlFhcIpPyTJmrfk15aF4B
 
 Alexey Elagin is <code>[ah-lick-SEY yeh-LAH-ghin].</code>
 
-You can contact me at firstname.lastname@gmail.com.
+You can contact me at <firstname.lastname@gmail.com>.
 
