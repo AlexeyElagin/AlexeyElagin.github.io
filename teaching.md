@@ -4,9 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-I had pleasure to teach at the [Independent University of Moscow](https://mccme.ru/en/nmu/) -- a small independent university aimed at teaching maths on high level with unique atmosphere.
+In Sheffield, I am teaching the following courses:
+- MAS2006 Group Theory (Spring 2026), lecture course
+- MPS234 Mathematics Core II (Fall 2025), problem sessions
+- ELE225 Systems Engineering Mathematics II (Fall 2025), problem sessions
 
-Here are the lecture courses that I composed, organised and led:
+
+Earlier, I had pleasure to teach at the [Independent University of Moscow](https://mccme.ru/en/nmu/) -- a small independent university aimed at teaching maths on high level with unique atmosphere.
+
+Here are the lecture courses that I composed, organised, and led:
 - Algebra--1 (Fall 2010, Fall 2017)
 - Algebra--2 (Spring 2011, Spring 2018)
 - Algebra--3 (Fall 2011, Fall 2018)
