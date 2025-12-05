@@ -12,12 +12,12 @@ I am a mathematician, which means that my job is to describe the laws of nature 
 - ...
 
 
-Currently (since Oct 2024) I am a research associate (aka postdoc) at the [University of Sheffield](https://agmp.sites.sheffield.ac.uk). 
+Currently (since Oct 2024) I am a research associate (aka postdoc) at the [University of Sheffield](https://agmp.sites.sheffield.ac.uk){:target="_blank" rel="noopener noreferrer"}. 
 Before that I was 
-- a visiting researcher at the [University of Edinburgh](https://maths.ed.ac.uk) under a fellowship from Isaac Newton Institute,
+- a visiting researcher at the [University of Edinburgh](https://maths.ed.ac.uk){:target="_blank" rel="noopener noreferrer"} under a fellowship from Isaac Newton Institute,
 and prior to that I was (rather parallel than successively):
-- working as a research fellow at IITP (Kharkevich Institute) and [HSE](https://ag.hse.ru/en/) (Higher School of Economics)
-- reading lectures at [IUM](https://mccme.ru/en/nmu/) (Independent University of Moscow)
-- teaching maths at [57th School](https://sch57.ru/index.en.html)
-- writing my thesis at [Steklov Institute](https://www.mi-ras.ru/?l=1) under the supervision by Dmitri Orlov,
+- working as a research fellow at IITP (Kharkevich Institute) and [HSE](https://ag.hse.ru/en/){:target="_blank" rel="noopener noreferrer"} (Higher School of Economics)
+- reading lectures at [IUM](https://mccme.ru/en/nmu/){:target="_blank" rel="noopener noreferrer"} (Independent University of Moscow)
+- teaching maths at [57th School](https://sch57.ru/index.en.html){:target="_blank" rel="noopener noreferrer"}
+- writing my thesis at [Steklov Institute](https://www.mi-ras.ru/?l=1){:target="_blank" rel="noopener noreferrer"} under the supervision by Dmitri Orlov,
 all in Moscow.
