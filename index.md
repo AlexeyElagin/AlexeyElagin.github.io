@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Welcome"
-permalink: /home
+permalink: /index/
 ---
 <img src="/assets/Me_Padley.PNG" alt="Me, a photo by D.K." style="float: left; margin-top: 20px; margin-right: 20px; width: 50%; max-width: 600px; height: auto; ">
 
