@@ -2,12 +2,11 @@
 # Needed so Jekyll processes this
 ---
 
-// Make page area wider on large screens
 .page,
 .page__content,
 .page__inner-wrap,
 .wrapper {
-  max-width: 1600px !important;   // adjust to taste (1200–1600 works well)
+  max-width: 1600px !important;   
 }
 
 
@@ -19,5 +18,5 @@
 .compact-footer .wrapper p {
   margin: 0 !important;
   line-height: 1.2;
-  font-size: 0.85rem;  // slightly smaller text (optional)
+  font-size: 0.85rem;  
 }
