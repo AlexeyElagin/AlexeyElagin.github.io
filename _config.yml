@@ -18,4 +18,4 @@ author:
 
 show_author_profile: true
 
-css: ["assets/css/custom.scss"]
+# css: ["assets/css/custom.scss"]
