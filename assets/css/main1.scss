@@ -1,6 +1,10 @@
 ---
 ---
 
+
+@import "minimal-mistakes/skins/default";   // loads the skin
+@import "minimal-mistakes";                 // loads the framework
+
 .page,
 .page__content,
 .page__inner-wrap,
