@@ -5,21 +5,4 @@
 @import "minimal-mistakes/skins/default";   // loads the skin
 @import "minimal-mistakes";                 // loads the framework
 
-.page,
-.page__content,
-.page__inner-wrap,
-.wrapper {
-  max-width: 1600px !important;   
-}
-
-
-.compact-footer {
-  padding-top: 0.1rem !important;
-  padding-bottom: 0.1rem !important;
-}
-
-.compact-footer .wrapper p {
-  margin: 0 !important;
-  line-height: 1.2;
-  font-size: 0.85rem;  
-}
+body { background: red !important; }
