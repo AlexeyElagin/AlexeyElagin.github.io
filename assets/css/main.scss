@@ -5,4 +5,10 @@
 @import "minimal-mistakes/skins/default";   // loads the skin
 @import "minimal-mistakes";                 // loads the framework
 
-body { background: red !important; }
+.page,
+.page__content,
+.page__inner-wrap,
+.wrapper {
+  max-width: 1600px !important;   
+}
+
