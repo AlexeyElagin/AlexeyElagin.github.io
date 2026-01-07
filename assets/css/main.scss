@@ -6,25 +6,14 @@ $max-width: 1800px;
 @import "minimal-mistakes/skins/default";   // loads the skin
 @import "minimal-mistakes";                 // loads the framework
 
-
 .page__footer {
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
-}
-
-.page__footer footer {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.page__footer .wrapper {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding: 0.15rem 0;
 }
 
 .page__footer p {
   margin: 0;
-  line-height: 1.3;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
+  line-height: 1.2;
 }
+
 
