@@ -7,15 +7,14 @@ $max-width: 1800px;
 @import "minimal-mistakes";                 // loads the framework
 
 
-.page__footer {
-  outline: 2px solid red;
-}
+
 
 /* ===== FORCE COMPACT FOOTER (Minimal Mistakes) ===== */
 
 .page__footer {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
+  text-align: left;
 }
 
 .page__footer footer {
