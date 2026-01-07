@@ -14,7 +14,7 @@ $max-width: 1800px;
 .page__footer {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
-  text-align: left;
+  text-align: left !important;
 }
 
 .page__footer footer {
@@ -32,8 +32,8 @@ $max-width: 1800px;
   padding-bottom: 0 !important;
 }
 
-.page__footer p {
+/*.page__footer p {
   margin: 0 !important;
   line-height: 1.2 !important;
-}
+}*/
 
