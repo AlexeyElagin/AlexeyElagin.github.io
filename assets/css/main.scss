@@ -5,7 +5,9 @@
 @import "minimal-mistakes/skins/default";   // loads the skin
 @import "minimal-mistakes";                 // loads the framework
 
-
+.container {
+  background: rgba(255, 0, 0, 0.05);
+}
 
 .container {
   max-width: 2000px !important;
