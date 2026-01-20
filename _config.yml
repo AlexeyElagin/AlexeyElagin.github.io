@@ -9,6 +9,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-include-cache
 
+favicon: /assets/images/favicon.ico
+
+
 # Author info (for the left sidebar)
 author:
  # name   : "Alexey Elagin"
