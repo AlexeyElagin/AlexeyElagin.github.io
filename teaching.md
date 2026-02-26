@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 In Sheffield, I am teaching the following courses:
-- MAS2006 Group Theory (Spring 2026), lecture course
+- MPS208 Group Theory (Spring 2026), lecture course
 - MPS234 Mathematics Core II (Fall 2025), problem sessions
 - ELE225 Systems Engineering Mathematics II (Fall 2025), problem sessions
 
