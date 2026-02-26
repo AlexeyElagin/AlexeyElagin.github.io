@@ -7,7 +7,8 @@ permalink: /talks/
 
 Here are some of my seminar and conference talks
 
-
+- **Atoms and birational geometry of surfaces over non-closed fields**, Warwick Algebraic Geometry Seminar, Warwick Mathematics Institute, UK. *February 18, 2026.*
+- **Atomic theory for derived categories of surfaces**, Workshop on birational geometry, Moscow, Russia (online), *December 11, 2025.*
 - **Atomic semi-orthogonal decompositions for derived categories of surfaces**, University College, London, UK. *November 19, 2025.*
 - **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Algebra Seminar, Indiana University, Bloomington, USA. *September 22, 2025.*
 - **Equivariantization and descent for triangulated categories via monad theory**, University of Nottingham, UK. *May 21, 2025.*
