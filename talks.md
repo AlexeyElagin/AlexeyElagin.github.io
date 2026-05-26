@@ -8,8 +8,8 @@ permalink: /talks/
 Here are some of my seminar and conference talks
 
 - **Categorical atoms and a view on birational classification of surfaces**, Conference on Hodge theory, birational geometry and atoms, IMPA, Rio-de-Janeiro, Brazil. *May 15, 2026.*
-- **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Campinas-Miami mathematical meeting “Geometry and related topics”, Unicamp, Campinas, Brazil. *May 13, 2026.*
-- **Categorical atoms and birational classification of surfaces**, conference “K-Stability and Equivariant Birational Geometry”, Edinburgh, UK. *April 23, 2026.*
+- **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Campinas-Miami mathematical meeting "Geometry and related topics", Unicamp, Campinas, Brazil. *May 13, 2026.*
+- **Categorical atoms and birational classification of surfaces**, conference "K-Stability and Equivariant Birational Geometry", Edinburgh, UK. *April 23, 2026.*
 - **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Geometry and Mathematical Physics seminar, Loughborough University, UK. *April 22, 2026.*
 - **Atoms and birational geometry of surfaces over non-closed fields**, Warwick Algebraic Geometry Seminar, Warwick Mathematics Institute, UK. *February 18, 2026.*
 - **Atomic theory for derived categories of surfaces**, Workshop on birational geometry, Moscow, Russia (online), *December 11, 2025.*
