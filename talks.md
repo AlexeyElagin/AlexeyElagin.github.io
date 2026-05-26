@@ -7,17 +7,21 @@ permalink: /talks/
 
 Here are some of my seminar and conference talks
 
+- **Categorical atoms and a view on birational classification of surfaces**, Conference on Hodge theory, birational geometry and atoms, IMPA, Rio-de-Janeiro, Brazil. *May 15, 2026.*
+- **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Campinas-Miami mathematical meeting “Geometry and related topics”, Unicamp, Campinas, Brazil. *May 13, 2026.*
+- **Categorical atoms and birational classification of surfaces**, conference “K-Stability and Equivariant Birational Geometry”, Edinburgh, UK. *April 23, 2026.*
+- **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Geometry and Mathematical Physics seminar, Loughborough University, UK. *April 22, 2026.*
 - **Atoms and birational geometry of surfaces over non-closed fields**, Warwick Algebraic Geometry Seminar, Warwick Mathematics Institute, UK. *February 18, 2026.*
 - **Atomic theory for derived categories of surfaces**, Workshop on birational geometry, Moscow, Russia (online), *December 11, 2025.*
-- **Atomic semi-orthogonal decompositions for derived categories of surfaces**, University College, London, UK. *November 19, 2025.*
+- **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Geometry and Topology Seminar, University College, London, UK. *November 19, 2025.*
 - **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Algebra Seminar, Indiana University, Bloomington, USA. *September 22, 2025.*
-- **Equivariantization and descent for triangulated categories via monad theory**, University of Nottingham, UK. *May 21, 2025.*
+- **Equivariantization and descent for triangulated categories via monad theory**, Quantum maths seminar, University of Nottingham, UK. *May 21, 2025.*
 - **Categorical entropy, Serre dimension, and surface models for gentle algebras**, Sheffield Algebraic Geometry Seminar, University of Sheffield, UK. *November 18, 2024.*
 - **Categorical entropy, Serre dimension, and derived categories of gentle algebras**, Conference “Simple-mindedness, silting, and stability”, Ambleside, UK. *July 8, 2024.*
 - **What is the dimension of a non-commutative algebraic variety?**, Glasgow Algebraic Geometry Seminar, University of Glasgow, UK. *March 19, 2024.*
 - **Thick subcategories on curves and orbifolds**, Warwick Algebraic Topology Seminar, Warwick Mathematics Institute, UK. *January 30, 2024.*
 - **Thick subcategories on smooth curves and orbifold curves**, Pure Mathematics Seminar, Lancaster University, UK. *December 12, 2023.*
-- **Thick subcategories on smooth curves and orbifold curves**, Plymouth Pure Mathematics Seminar, University of Plymouth, UK. *November 16, 2023.*
+- **Thick subcategories on smooth curves and orbifold curves**, Pure Mathematics Seminar, University of Plymouth, UK. *November 16, 2023.*
 - **New achievements in categorical algebraic geometry**, Geometry in Cardiff Seminar, Cardiff University, UK. *November 15, 2023.*
 - **Equivariantization and descent for triangulated categories via monad theory**, Category Theory Seminar, University of Edinburgh, UK. *October 25, 2023.*
 - **Dimension of triangulated categories**, seminar “New Directions in Group Theory and Triangulated Categories”, Bielefeld University, Germany (online). *April 24, 2023.*
