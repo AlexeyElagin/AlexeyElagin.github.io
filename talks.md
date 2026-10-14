@@ -7,6 +7,8 @@ permalink: /talks/
 
 Here are some of my seminar and conference talks
 
+- **Categorical entropy, Serre dimension, and surface models for gentle algebras**, Sheffield Algebraic Geometry Seminar, University of Sheffield, UK. *October 5, 2026.*
+- **Categorical atoms of surfaces and birational geometry**, LMS–Sheffield symposium “Rationality problems, Cremona groups and motivic invariants”, Sheffield, UK. *July 9, 2026.*
 - **Categorical atoms and a view on birational classification of surfaces**, Conference on Hodge theory, birational geometry and atoms, IMPA, Rio-de-Janeiro, Brazil. *May 15, 2026.*
 - **Atomic semi-orthogonal decompositions for derived categories of surfaces**, Campinas-Miami mathematical meeting "Geometry and related topics", Unicamp, Campinas, Brazil. *May 13, 2026.*
 - **Categorical atoms and birational classification of surfaces**, conference "K-Stability and Equivariant Birational Geometry", Edinburgh, UK. *April 23, 2026.*
